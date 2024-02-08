@@ -1,2 +1,4 @@
-public class Vingere {
+public class Vingere
+{
+
 }
